@@ -10,6 +10,7 @@ En esta actividad usamos una esfera en movimiento que al darle clikc desapare y 
 ## Tecnologías utilizadas
 - HTML5
 - JS
+- CSS
 
 ## Autora
 - **Gabriela Rodriguez Lara** - [UsuarioGitHub](https://github.com/gabs147)
