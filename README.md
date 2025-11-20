@@ -1,6 +1,6 @@
-# Actividad Cubo 
+# Actividad Aimlabs
 
-En esta actividad usamos un cubo en movimiento que al darle clikc desapare y cambia a otra posición cada vez moviendose más rapido.
+En esta actividad usamos una esfera en movimiento que al darle clikc desapare y cambia a otra posición cada vez moviendose más rapido.
 
 ## Instrucciones de uso
 1. Clona el repositorio: `https://github.com/gabs147/Actividad-Cubo-06-11`
